@@ -16,4 +16,4 @@ app.get('/', (req, res) => {
   res.end(JSON.stringify(result))
 })
 
-app.listen(8080)
+module.exports = app
