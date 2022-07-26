@@ -1,0 +1,23 @@
+= README
+
+Este código está com seu tutorial sendo escrito em
+
+[.text-center]
+https://paulojeronimo.com/game-tutorial
+
+Esse tutorial ainda não está completo pois
+o programa ainda está sendo refatorado para a resolução de bugs.
+
+Procedimento para execução:
+
+----
+$ npm install
+
+$ node app.js
+
+$ http localhost:8080
+----
+
+Maiores detalhes no tutorial referenciado acima.
+
+Acompanhe a evolução desse repositório durante os próximos dias!
